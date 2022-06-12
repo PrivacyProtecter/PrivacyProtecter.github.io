@@ -1,0 +1,201 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('./static/iconfont.ttf?t=1654069731206') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yunshangchuan:before {
+  content: "\f0020";
+}
+
+.icon-jianqie:before {
+  content: "\f00bc";
+}
+
+.icon-fuzhiwenjian:before {
+  content: "\f00c2";
+}
+
+.icon-ziliaoku:before {
+  content: "\f00ca";
+}
+
+.icon-yunxiazai:before {
+  content: "\f011a";
+}
+
+.icon-xinlangweibo:before {
+  content: "\f01af";
+}
+
+.icon-tishi:before {
+  content: "\e72b";
+}
+
+.icon-shijian:before {
+  content: "\e64d";
+}
+
+.icon-shouye:before {
+  content: "\e64f";
+}
+
+.icon-xiala:before {
+  content: "\e6b9";
+}
+
+.icon-banquan:before {
+  content: "\e6d5";
+}
+
+.icon-fenlei:before {
+  content: "\e658";
+}
+
+.icon-nishizhencounterclockwise6:before {
+  content: "\e95c";
+}
+
+.icon-jinzhi:before {
+  content: "\e634";
+}
+
+.icon-tianjia:before {
+  content: "\e622";
+}
+
+.icon-baocun:before {
+  content: "\e63b";
+}
+
+.icon-xiayiyeqianjinchakangengduo:before {
+  content: "\e8f1";
+}
+
+.icon-zhiding:before {
+  content: "\e678";
+}
+
+.icon-wodedamaijihuo:before {
+  content: "\e656";
+}
+
+.icon-daoru:before {
+  content: "\e620";
+}
+
+.icon-icon-:before {
+  content: "\e62e";
+}
+
+.icon-daochu:before {
+  content: "\e61c";
+}
+
+.icon-chakan:before {
+  content: "\e649";
+}
+
+.icon-duihao:before {
+  content: "\eaf1";
+}
+
+.icon-kefu:before {
+  content: "\ec2e";
+}
+
+.icon-yunduanshuaxin:before {
+  content: "\ec60";
+}
+
+.icon-paixu:before {
+  content: "\e628";
+}
+
+.icon-xiayi:before {
+  content: "\e636";
+}
+
+.icon-shangyi:before {
+  content: "\e637";
+}
+
+.icon-biaoji:before {
+  content: "\e728";
+}
+
+.icon-daoru1:before {
+  content: "\e6f7";
+}
+
+.icon-daoru2:before {
+  content: "\e631";
+}
+
+.icon-daochu1:before {
+  content: "\e632";
+}
+
+.icon-shanchu:before {
+  content: "\e614";
+}
+
+.icon-bianji:before {
+  content: "\e8ac";
+}
+
+.icon-bangzhu:before {
+  content: "\e8ad";
+}
+
+.icon-dianzan:before {
+  content: "\e8ae";
+}
+
+.icon-shuaxin:before {
+  content: "\e8b9";
+}
+
+.icon-dianzan1:before {
+  content: "\e8c3";
+}
+
+.icon-quxiaobiaoji:before {
+  content: "\e67d";
+}
+
+.icon-24px:before {
+  content: "\e603";
+}
+
+.icon-24px1:before {
+  content: "\e604";
+}
+
+.icon-star-full:before {
+  content: "\e9a1";
+}
+
+.icon-star:before {
+  content: "\e9a2";
+}
+
+.icon-cuo:before {
+  content: "\e6e5";
+}
+
+.icon-shijianpaixu:before {
+  content: "\e65d";
+}
+
+.icon-zhidi:before {
+  content: "\e6d4";
+}
+
